@@ -1,0 +1,23 @@
+#+TITLE: elfeed-org
+
+* Feeds :elfeed:
+** Top News :news:
+*** [[https://news.google.com/news/rss/?gl=US&ned=us&hl=en][Google News - Top]]
+** Learn :learn:must:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCX6b17PVsYBQ0ip5gyeme-Q][Youtube - Courses]] :course:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCSs4A6HYKmHA2MG_0z-F0xw][Youtube - 李永乐]] :youtube:liyongle:
+*** English :eng:
+**** [[https://www.youtube.com/feeds/videos.xml?user=bbclearningenglish][Youtube - BBC Learning English]] :bbc:youtube:
+**** [[https://feeds.bbci.co.uk/learningenglish/english/course/newsreview/unit-1/rss][BBC Learning English Official]] :bbc:
+** Github Trending :github:
+*** [[https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml][Github - all/weekly]] :all:
+** Life :life:
+*** Youtube :youtube:
+**** [[https://www.youtube.com/feeds/videos.xml?user=latenight][Youtube - Jimmy Fallon]] :Jimmy:Fallon:
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCwWhs_6x42TyRM4Wstoq8HA][Youtube - Trevor Noah]] :Trevor:Noah:
+*** Bilibili :bili:
+**** [[https://rsshub.app/bilibili/user/video/517327498][Bili - 罗翔]] :luoxiang:
+**** [[https://rsshub.app/bilibili/user/video/290526283][Bili - 美食作家王刚]] :food:
+**** Game :game:
+***** [[https://rsshub.app/bilibili/user/video/108635990][Bili - 炉石瓦莉拉]] :lushi:
+***** [[https://rsshub.app/bilibili/user/video/891318][Bili - 太极剑老师]] :lushi:

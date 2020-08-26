@@ -1,0 +1,3 @@
+#+LATEX_HEADER: \usepackage[citestyle=authoryear-icomp,bibstyle=authoryear, hyperref=true,backref=true,maxcitenames=3,url=true,backend=bibtex,natbib=true] {biblatex}
+#+LATEX_HEADER: \addbibresource{~/Cloud/Documents/bib/zotLib.bib}
+#+TITLE: ${title}
